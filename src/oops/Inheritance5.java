@@ -2,8 +2,9 @@ package oops;
 
 public class Inheritance5 {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public void write() {
+		System.out.println("I am writing");
+		
 
 	}
 

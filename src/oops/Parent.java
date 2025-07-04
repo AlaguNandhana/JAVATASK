@@ -1,9 +1,10 @@
 package oops;
 
-public class Parent {
+public class Parent extends Grandparent {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public void  parent( ) {
+		System.out.println("This is Parent method");
+		
 
 	}
 

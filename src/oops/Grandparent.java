@@ -1,10 +1,12 @@
 package oops;
 
 public class Grandparent {
+	
+	
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public  void grandparent() {
+		
+		System.out.println("This is grandparent method") ;
 	}
 
 }
